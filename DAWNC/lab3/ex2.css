@@ -1,0 +1,48 @@
+.grid{
+    display:grid;
+    grid-template-rows: repeat(4,1fr);
+    grid-template-columns: repeat(2,150px);
+    grid-template-areas:
+        "topleft topright"
+        "lefteye righteye"
+        "leftcheeck rightcheeck"
+        "bottom left bottomright"
+        ;
+}
+img{
+    max-width: 150px;
+}
+.img-1 {
+    height: 50px;
+    width: 50px;
+
+    grid-area: topleft;
+}
+
+.img-2 {
+    grid-area: topright;
+}
+
+.img-3 {
+    grid-area: lefteye;
+}
+
+.img-4 {
+    grid-area: righteye;
+}
+
+.img-5 {
+    grid-area: leftcheeck;
+}
+
+.img-6 {
+    grid-area: rightcheeck;
+}
+
+.img-7 {
+    grid-area: bottomleft;
+}
+
+.img-8 {
+    grid-area: bottomright;
+}

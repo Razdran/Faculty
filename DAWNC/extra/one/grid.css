@@ -1,0 +1,23 @@
+.container{
+    background-color: grey;
+    display:grid;
+    justify-content: stretch;
+    width:250px;
+    height:200px;
+    justify-content: space-around;
+    grid-template-columns: 100px 100px;
+    grid-template-rows: 100px 100px;
+    grid-template-areas: 
+        "h1 h2"
+        "f1 f2"
+        ;
+}
+.box1{
+    background-color: blue;
+    grid-area: h1;
+
+}
+.box2{
+    grid-area: f2;
+    background-color:red;
+}

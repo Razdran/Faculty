@@ -1,0 +1,11 @@
+site prof: slides.com/iampava/cliw-2018
+
+pentru parinte
+grid-tamplate-rows:50px;50px;50px;
+grid-template-columns:50px;50px:50px;
+grid-template-area:
+    " header header header"
+    " ads main ."
+    " footer footer footer";
+.-va face un spatiu gol
+apoi in divuri punem grid-area:header;
