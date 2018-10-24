@@ -1,0 +1,52 @@
+1.Inteligenta artificiala:
+	6 teme x 3 puncte + 10 puncte problema bonus + 5 maxim puncte bonus = maxim 33 pe activitate laborator
+6 x 3 puncte pe activitate proiect (in fiecare saptamana de lucru la proiect punctam activitatea la nivel de echipa) + 15 puncte rezultatul final si contributia individuala = maxim 33 la proiect
+33 examen, eventual bonusuri generale pentru curs/premiere/altele
+Maxim 100+, nota e ROUND(punctaj_total), minim pentru promovare 50 puncte
+
+2.ML
+Nota=(4+S1+P1+S2+P2)/4, unde
+S1=punctajullaseminarpeprimajum?atatedesemestru(0-6puncte) S2=punctajullaseminarpeadouajum?atatedesemestru(0-6puncte) P1=punctajullaprimulexamenpar¸tial(0-12puncte) P2=punctajullaaldoileaexamenpar¸tial(0-12puncte)
+PunctajeleS1siS2seob¸tin(?ecare)camediearitmetic?aadou?apunctaje,pentru –r?aspunsuri“latabl?a” –testscris(anun¸tatˆinprealabil) Condi¸tiidepromovare: S1=2;S2=2;P1=4,P2=4,nota=4.5 ˆ Inconsecin¸t?a,punctajulminimaldeˆindeplinitdinsumaS1+P1+S2+P2este14.
+Aten¸tie: S1<2(sauS2<2)implic?aimediatnepromovareaacestuicursˆinanuluniversitar 2018–2019!
+
+3.CLIW
+The assessment procedure implies:
+D – midterm project (week #9): Web application's requirements, UI design & general (service-oriented, serverless,...) software architecture.
+P – final project (week #16 – during finals session): from conceptual modeling to full implementation (solution + demo).
+test samples
+Ti, i ? [1, 4] – a number of 4 open book written tests – at the end of several lectures, without prior notification; duration: 10 minutes.
+Ei, i ? [1, 4] – a number of 4 practical exercises – during lab classes, without prior notification; maximum duration: 15 minutes.
+
+The assessment of each D and P components will provide 0—10 points – consult the list of requirements & deliverables. Each Ti and Ei, with i ? [1, 4], will be evaluated with maximum 2.5 points.
+Grading formula is D * 0.3 + P * 0.5 + T * 0.1 + E * 0.1,
+where T = sum(Ti : i ? [1, 4]) and E = sum(Ei : i ? [1, 4]).
+
+In order to pass, an enrolled student must obtain minimum 5 points for all – D, P, T, and E – components.
+Other aspects of interest
+
+Significant contributions – including the involvement in open source/data-related scientific research and/or technical (inter)national projects, competitions, events, etc. – might bring maximum 2 points to the final mark.
+Failed D and/or P components could be reevaluated with a 2 point penalty.
+
+Nota bene : no re-assessments for Ti tests and Ei exercises.
+The partial grades of failed students from previous years are not taken into consideration.
+
+4..Net
+ 14 weeks (full activity) + 2 weeks for evaluation?
+Final grade = round(40% * Exam + 60% * Lab)?
+Exam: max 40 points, midterm exam?
+Lab: max 60 points = 20 lab activity + 40 semester project?
+* bonus points!?
+Criteria: min 50 (Exam + Lab)?
+
+5.Securitatea informatiei
+homework assignments and activity during laboratories: 50%
+final exam: 50%
+
+Remarks: 
+Five homework assignments will be assigned during the semester;
+Each of them counts for 10 points;
+Late assignment submissions will not be accepted;
+Exceptions to these rules will of course be made for serious illness or other emergency circumstances; in these cases, please contact me as soon as you are aware of the problem.
+
+6.python:
