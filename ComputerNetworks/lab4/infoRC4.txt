@@ -1,0 +1,14 @@
+Despre tema:
+	-Fiul trebuie sa trimita tatalui intai lungimea comenzii
+	 tatal citeste apoi din fiu comanda cu lungimea primita de la fiu
+
+	- Nu este permisa folosire comenzilor din linux find si stat
+	  trebuie implementat un sistem propriu de find/stat
+	- find recursiv prin directoare
+	- Putem folosi api-uri pentru lucruri cu directoare
+	- man 2 stat
+	- sa folosim fifo, socket pair, pipe
+	
+Despre laboratorul 4:
+	- oricand avem fork intr-un cod trebuie sa avem WAIT!
+	- 
