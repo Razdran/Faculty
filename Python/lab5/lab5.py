@@ -5,7 +5,7 @@ def sort__uuids():
     fd = open('sample.txt','r')
     try:
         uuids = fd.readlines()
-        uuids.sort(key = Lambda uuid: uuid.split('-')[1])
+        #uuids.sort(key = Lambda uuid: uuid.split('-')[1])
         return uuids
     except Exception as e:
         pass
@@ -29,7 +29,7 @@ def parcurge_recursiv(path):
         if os.path.isdir(os.path.join(path,f)):
             parcurge_recursiv(os.path)
  """exista o functie care face exact ce face problema 4"""
- for root, dirs, files in os.walk(r'path/dir/dir/...')                      
+ for root, dirs, files in os.walk('path/dir/dir/...','r')                      
  """problema 5 scrieti un script care primeste un path si afiseaza primii 4096 biti daca pathul duce la un fisier, intratrile din acesta daca
  pathul este un director si un mesaj de eroare daca pathul este invalid"""
 

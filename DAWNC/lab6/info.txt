@@ -1,0 +1,24 @@
+            JavaScript
+
+ES9 = Ecma Script version 9
+== compara valorile
+=== compara valorile si tipurile
+
+->objects
+let myBike = {
+    mark:"unknown",
+    year:2015,
+    boughtFrom:{
+        name:"Decathlon"
+    }
+}
+
+-> functions
+functii cu scop: functiile pot accesa functii mai mari decat ele(de ex. functia parinte) si nu pot accesa functii de la acelasi
+                 nivel cu ele
+let-variabila are sens doar in blocul in care a fost definita
+var-variabila globala
+const-variabila are sens doar in blocul in care a fost definita
+
+reference types: object,array,functions
+value types: int,string, bool...

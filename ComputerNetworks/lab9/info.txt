@@ -1,0 +1,16 @@
+parametri select:
+	1. nr maxim al descriptorilor creati + 1
+	2. 
+	3.
+	4.
+	5. timer, este optional(se poate pune null in 
+	loc de timer),deblocheaza selectul dupa un timp
+	
+descriptorii 0,1,2 sunt prealocati:
+	1-std in
+	2-std out
+	3-std err
+
+pentru proiect:
+	-mysql/sqlLite 
+	-gtk/qt

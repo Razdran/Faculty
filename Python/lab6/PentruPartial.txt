@@ -1,0 +1,17 @@
+Partialul in saptamana 8
+In saptamana 7 nu se face python
+Trebuie sa stim:
+                - sa rulam un script python
+                - sa facem fibonnaci 
+                - numere prime
+                - / returneaza float; // returneaza int
+                - string[1:4] ia toate caracterele de la 1 la 4
+                - string[0:lan(string)] returneaza tot stringul
+                - string[:]-returneaza tot stringul
+                - string[1:9:2] - al treilea parametru indica pasul cu care sa se returneze. In exemplul acesta se vor
+                  returna caracterele de la 1 la 9 din 2 in 2
+                - trebuie sa stim sa lucram cu functii care creaza si parcurg directoare/fisiere. Pot fi gasite in curs la sys/os sau in 
+                  documentatia python(os.mkdir(r,path))
+                - problema 8 din laboratorul 5!!!
+                - stringuri, liste, seturi
+                - obiect hashable si unhashable
